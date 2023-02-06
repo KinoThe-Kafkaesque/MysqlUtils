@@ -4,4 +4,4 @@ source .env
 
 #run both scripts
 ./fetchRemote.sh
-./OverwiteLocal.sh
+./overwiteLocal.sh
